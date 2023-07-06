@@ -213,7 +213,7 @@ instrument(io, {
 
 #### `mode`
 
-Default value: `development`
+Default value: `production`
 
 In production mode, the server won't send all details about the socket instances and the rooms, thus reducing the memory footprint of the instrumentation.
 
